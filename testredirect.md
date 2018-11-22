@@ -1,3 +1,3 @@
 <script>
-window.location.href = '/Hackathon/a folder/9.10-NEO-Design-Contest.md';
+window.location.href = '/Hackathon/a folder/9.10-NEO-Design-Contest.html';
 </script>
