@@ -10,6 +10,8 @@ This page is dedicated to listing past and upcoming hackathons/other challenges.
 
 We believe that Hackathons and community led competitions can be very helpful for connecting the neo community and developing the neo ecosystem.
 
+[testredirect](testredirect.md)
+
 ### Event types
 
 - **Challenges**
